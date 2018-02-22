@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    
+  }
+  
+.jumbotron {
+    color: #000;
+    text-align: center;
+    background-color: firebrick;
+  }
+
+h1{
+      font-size: 50px;
+      font-family: 'Orbitron', sans-serif;
+  }
+
+.instructions {
+    text-align: center; 
+  }
+  
+.img-thumbnail{
+      border: none;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+      background: none;
+  }
