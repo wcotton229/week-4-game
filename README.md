@@ -2,4 +2,4 @@
 
 Week 4 Games
 
-https://wcotton229.github.io/week-4-game/
+Click this link to play the game: https://wcotton229.github.io/week-4-game/
